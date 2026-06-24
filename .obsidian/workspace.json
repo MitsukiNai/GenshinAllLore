@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "5fa12275cd674dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee1fa7497a986b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3044a6c976cfac3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0fc639c3177dbb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f43efdac9a1238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "962f8c7dedce264b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3cf13b8ff6fd7727",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Reino de los Lobos",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9f01346304f29773",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "063863096cdd278b",
+    "type": "split",
+    "children": [
+      {
+        "id": "795316d530a56435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3401ad623276255b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "785305a0e5e29bd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "c6bb360432dc99dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "956e19a748da264b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "48e2e8e418af8cc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          },
+          {
+            "id": "671b421e4fc934b1",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "a3044a6c976cfac3",
+  "lastOpenFiles": [
+    "02 - Naciones y Regiones/Inazuma/Horno_Mikage.md",
+    "02 - Naciones y Regiones/Inazuma/Gran_Santuario_Narukami.md",
+    "02 - Naciones y Regiones/Liyue/Desfiladero_Jueyun.md",
+    "02 - Naciones y Regiones/Inazuma/Tsurumi_Island.md",
+    "02 - Naciones y Regiones/Liyue/Bosque_de_Piedra_Guyun.md",
+    "02 - Naciones y Regiones/Mondstadt/Reino_de_los_Lobos.md",
+    "02 - Naciones y Regiones/Mondstadt/Viento_Tiempo_Libertad.md",
+    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Descendientes_Lunaescarcha.md",
+    "02 - Naciones y Regiones/Mondstadt/Guarida_de_Stormterror.md",
+    "02 - Naciones y Regiones/Mondstadt/Región_Dragonspine.md",
+    "02 - Naciones y Regiones/Mondstadt/Nación_Mondstadt.md",
+    "02 - Naciones y Regiones/Mondstadt/Historia_Mondstadt.md",
+    "02 - Naciones y Regiones/Khaenri'ah/Dinastía_Luna_Carmesí.md",
+    "02 - Naciones y Regiones/Nod-Krai/Facciones_de_Nod-Krai.md",
+    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Taller_de_Krumkake.md",
+    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai",
+    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Curatorium_of_Secrets.md",
+    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Gremio_Voynich.md",
+    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Lampareros.md",
+    "Capitano_El_Capitán.md",
+    "04 - Personajes/Hexenzirkel/Alice.md",
+    "05 - Organizaciones y Facciones/Los_Cinco_Pecadores.md",
+    "05 - Organizaciones y Facciones/Fatui.md",
+    "04 - Personajes/NPCs_Importantes/Skirk.md",
+    "05 - Organizaciones y Facciones/Hexenzirkel.md",
+    "04 - Personajes/Hexenzirkel",
+    "04 - Personajes/Hexenzirkel/Rhinedottir.md",
+    "04 - Personajes/Hexenzirkel/Octavia.md",
+    "05 - Organizaciones y Facciones/Hexenzirkel",
+    "04 - Personajes/Los Once Heraldos",
+    "02 - Naciones y Regiones/Sumeru/El Gran Rojo Desierto",
+    "03 - Historia y Línea Temporal/Historia de Civilizaciones Antiguas",
+    "09 - Libros y Textos/Por_Nación/Sumeru",
+    "09 - Libros y Textos/Por_Nación/Mondstadt",
+    "09 - Libros y Textos/Por_Nación/Inazuma",
+    "09 - Libros y Textos/Por_Nación/Liyue"
+  ]
+}

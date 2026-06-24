@@ -1,0 +1,5 @@
+## 🏛️ El Cielo y las Siete.
+
+1. **El Cielo y la Perla de Génesis**: Existe una alegoría sobre un reino celestial con un Rey que envió a su heredera a buscar la Perla de Génesis en el reino de las tinieblas. Fue consumida por las tinieblas, y el segundo heredero fue enviado a buscarla. Este cuento parece reflejar el destino de los Descendientes y la lucha contra el Abismo.
+    
+2. **Los Arcontes y las Visiones**: Tras la guerra y la creación del nuevo orden, los **Siete Arcontes** fueron designados para gobernar las naciones. Sin embargo, como aclaró la Shogun Raiden, **los Arcontes no son quienes otorgan las Visiones**. Es el sistema de "leyes" establecido por el Orden Celestial (representado por las Gnosis) el que, al recibir el deseo de una persona, encarga a los Arcontes (los "siete supervisores del reino material") que otorguen el regalo de una Visión [](https://wiki.hoyolab.com/pc/genshin/entry/4935?lang=en-us). Esto refuerza que las Gnosis son el mecanismo de control del Orden Celestial, no un simple medallón de poder.
