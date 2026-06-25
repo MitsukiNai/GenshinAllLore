@@ -123,7 +123,7 @@ Dottore es un hombre alto y pálido, de **ojos rojos** y **cabello azul ondul
     
 - [[Los_Once_Harbingers]]
     
-- [[La_Tsaritsa]]
+- [[04 - Personajes/Arcontes/La_Tsaritsa]]
     
 - [[Pierro_El_Bufón]]
     

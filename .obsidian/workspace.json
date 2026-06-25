@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1fa7497a986b80",
+        "id": "13cb8bf6cd1e58e5",
         "type": "tabs",
         "children": [
           {
-            "id": "a3044a6c976cfac3",
+            "id": "017c816e7c6ea3b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -191,43 +191,43 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a3044a6c976cfac3",
+  "active": "017c816e7c6ea3b6",
   "lastOpenFiles": [
-    "02 - Naciones y Regiones/Inazuma/Horno_Mikage.md",
-    "02 - Naciones y Regiones/Inazuma/Gran_Santuario_Narukami.md",
-    "02 - Naciones y Regiones/Liyue/Desfiladero_Jueyun.md",
-    "02 - Naciones y Regiones/Inazuma/Tsurumi_Island.md",
-    "02 - Naciones y Regiones/Liyue/Bosque_de_Piedra_Guyun.md",
-    "02 - Naciones y Regiones/Mondstadt/Reino_de_los_Lobos.md",
-    "02 - Naciones y Regiones/Mondstadt/Viento_Tiempo_Libertad.md",
+    "03 - Historia y Línea Temporal/Historia de Civilizaciones Antiguas/Sal_Vindagnyr.md",
+    "03 - Historia y Línea Temporal/Historia de Civilizaciones Antiguas/Hiperbórea.md",
     "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Descendientes_Lunaescarcha.md",
-    "02 - Naciones y Regiones/Mondstadt/Guarida_de_Stormterror.md",
-    "02 - Naciones y Regiones/Mondstadt/Región_Dragonspine.md",
-    "02 - Naciones y Regiones/Mondstadt/Nación_Mondstadt.md",
-    "02 - Naciones y Regiones/Mondstadt/Historia_Mondstadt.md",
-    "02 - Naciones y Regiones/Khaenri'ah/Dinastía_Luna_Carmesí.md",
-    "02 - Naciones y Regiones/Nod-Krai/Facciones_de_Nod-Krai.md",
-    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Taller_de_Krumkake.md",
+    "04 - Personajes/NPCs_Importantes/Seutervoinen_La_Viajera.md",
+    "04 - Personajes/NPCs_Importantes/Istaroth.md",
+    "08 - Artefactos y Objetos/Réquiem_del_Corredor.md",
+    "08 - Artefactos y Objetos/Llamas Albinas.md",
+    "08 - Artefactos y Objetos/Retroceso del Meteorito.md",
+    "01 - Cosmología y Orígenes/El_Reino_Elemental_(Luz).md",
+    "01 - Cosmología y Orígenes/El_Tercer_Descendido_Saarelainen.md",
+    "01 - Cosmología y Orígenes/La Perla Génesis.md",
+    "01 - Cosmología y Orígenes/Los_Descendidos.md",
+    "01 - Cosmología y Orígenes/Los_Cuatro_Reflejos.md",
+    "01 - Cosmología y Orígenes/Primordial_One_(Phanes).md",
+    "01 - Cosmología y Orígenes/Pilares_Celestiales.md",
+    "01 - Cosmología y Orígenes/La_Guerra_de_Venganza.md",
+    "01 - Cosmología y Orígenes/Los_Siete_Soberanos_Dragón.md",
+    "04 - Personajes/NPCs_Importantes/Naberius.md",
+    "01 - Cosmología y Orígenes/Celestia_y_el_Orden_Celestial.md",
+    "01 - Cosmología y Orígenes/Las_Tres_Lunas_(Aria_Sonnet_Canon).md",
+    "01 - Cosmología y Orígenes/Los_Ángeles_y_Seelies.md",
+    "01 - Cosmología y Orígenes/Los_Siete_Arcontes.md",
+    "03 - Historia y Línea Temporal/El_Cataclismo_(500_años).md",
+    "03 - Historia y Línea Temporal/Eventos_Clave_Por_Nación.md",
+    "03 - Historia y Línea Temporal/Línea_Temporal_General.md",
+    "08 - Artefactos y Objetos/Mimbre de la Luz Lunar.md",
+    "13 - Dudas personales",
     "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai",
-    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Curatorium_of_Secrets.md",
-    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Gremio_Voynich.md",
-    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Lampareros.md",
-    "Capitano_El_Capitán.md",
-    "04 - Personajes/Hexenzirkel/Alice.md",
-    "05 - Organizaciones y Facciones/Los_Cinco_Pecadores.md",
-    "05 - Organizaciones y Facciones/Fatui.md",
-    "04 - Personajes/NPCs_Importantes/Skirk.md",
-    "05 - Organizaciones y Facciones/Hexenzirkel.md",
     "04 - Personajes/Hexenzirkel",
-    "04 - Personajes/Hexenzirkel/Rhinedottir.md",
-    "04 - Personajes/Hexenzirkel/Octavia.md",
     "05 - Organizaciones y Facciones/Hexenzirkel",
     "04 - Personajes/Los Once Heraldos",
     "02 - Naciones y Regiones/Sumeru/El Gran Rojo Desierto",
     "03 - Historia y Línea Temporal/Historia de Civilizaciones Antiguas",
     "09 - Libros y Textos/Por_Nación/Sumeru",
     "09 - Libros y Textos/Por_Nación/Mondstadt",
-    "09 - Libros y Textos/Por_Nación/Inazuma",
-    "09 - Libros y Textos/Por_Nación/Liyue"
+    "09 - Libros y Textos/Por_Nación/Inazuma"
   ]
 }

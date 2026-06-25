@@ -23,17 +23,17 @@ Fontaine es una nación marítima con extensas áreas acuáticas y un mundo subm
 
 ### Áreas Principales
 
-|Lugar|Descripción|
-|---|---|
-|**Corte de Fontaine**|La capital, donde se alza el **Palacio de Espuma y Brillo** (Mermonia), la Ópera Epiclese y el **Tranvía Acuático** [](https://baike.baidu.com/es/item/Fontaine/1313273)[](https://en.m.wikipedia.org/wiki/Fontaine_\(Genshin_Impact\))|
-|**Puerto de Gotas de Mar**|Puerto principal en la base de la cascada [](https://baike.baidu.com/es/item/Fontaine/1313273)|
-|**Ópera Epiclese**|Teatro y tribunal donde se celebran los juicios más importantes [](https://baike.baidu.com/es/item/Fontaine/1313273)|
-|**Erinys**|Restos de la bestia gigante Elynas, fusionados con la montaña [](https://baike.baidu.com/es/item/Fontaine/1313273)|
-|**Fosa de Eldon**|Abismo submarino con restos de naufragios [](https://baike.baidu.com/es/item/Fontaine/1313273)|
-|**Fuerte Merópide**|Prisión subterránea que guarda el acceso al Mar Primigenio [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488)|
-|**Instituto de Investigación de Energía Cinética**|Fundado por Alain Guillotin, centro de investigación de maquinaria y energía [](https://wiki.hoyolab.com/pc/genshin/entry/4603?lang=es-es)[](https://baike.baidu.com/es/item/Fontaine/1313273)|
-|**Pueblo de Petrichor**|Pequeño pueblo, punto de encuentro del "Club de la Fantasía" [](https://baike.baidu.com/es/item/Fontaine/1313273)|
-|**Mar del Pasado (Remuria)**|Ruinas sumergidas de la antigua civilización de Remuria, añadidas en la versión 4.6 [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://baike.baidu.com/es/item/Fontaine/1313273)|
+| Lugar                                              | Descripción                                                                                                                                                                                                                             |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Corte de Fontaine**                              | La capital, donde se alza el **Palacio de Espuma y Brillo** (Mermonia), la Ópera Epiclese y el **Tranvía Acuático** [](https://baike.baidu.com/es/item/Fontaine/1313273)[](https://en.m.wikipedia.org/wiki/Fontaine_\(Genshin_Impact\)) |
+| **Puerto de Gotas de Mar**                         | Puerto principal en la base de la cascada [](https://baike.baidu.com/es/item/Fontaine/1313273)                                                                                                                                          |
+| **Ópera Epiclese**                                 | Teatro y tribunal donde se celebran los juicios más importantes [](https://baike.baidu.com/es/item/Fontaine/1313273)                                                                                                                    |
+| **Erinys**                                         | Restos de la bestia gigante Elynas, fusionados con la montaña [](https://baike.baidu.com/es/item/Fontaine/1313273)                                                                                                                      |
+| **Fosa de Eldon**                                  | Abismo submarino con restos de naufragios [](https://baike.baidu.com/es/item/Fontaine/1313273)                                                                                                                                          |
+| **Fuerte Merópide**                                | Prisión subterránea que guarda el acceso al Mar Primigenio [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488)              |
+| **Instituto de Investigación de Energía Cinética** | Fundado por Alain Guillotin, centro de investigación de maquinaria y energía [](https://wiki.hoyolab.com/pc/genshin/entry/4603?lang=es-es)[](https://baike.baidu.com/es/item/Fontaine/1313273)                                          |
+| **Pueblo de Petrichor**                            | Pequeño pueblo, punto de encuentro del "Club de la Fantasía" [](https://baike.baidu.com/es/item/Fontaine/1313273)                                                                                                                       |
+| **Mar del Pasado (Remuria)**                       | Ruinas sumergidas de la antigua civilización de Remuria, añadidas en la versión 4.6 [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://baike.baidu.com/es/item/Fontaine/1313273)                         |
 
 ---
 

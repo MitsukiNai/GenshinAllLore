@@ -126,7 +126,7 @@ Hay una nota en el centro del **Fuerte Mumei** que parece ser el diario de un 
     
 - [[La_Isla_Yashiori]] (Ubicación de los Textos Perdidos de Inazuma)
     
-- [[Enkanomiya]] (Ubicación de los Libros Perdidos)
+- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]] (Ubicación de los Libros Perdidos)
     
 - [[Khaenri'ah]] (Origen del arte de la creación de marionetas)
     

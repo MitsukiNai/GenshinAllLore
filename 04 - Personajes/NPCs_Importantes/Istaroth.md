@@ -52,6 +52,6 @@ En la antigua Mondstadt, Istaroth fue adorada junto a Barbatos, el Arconte Anemo
     
 - [[Las_Tres_Lunas_(Aria_Sonnet_Canon)]] (Relacionada con el tiempo y el destino)
     
-- [[Enkanomiya]] (Su culto fue prominente allí)
+- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]] (Su culto fue prominente allí)
     
 - [[Raiden_Makoto]] (Le ayudó a plantar el Cerezo Sagrado)

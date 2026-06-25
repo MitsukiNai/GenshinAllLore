@@ -1,6 +1,6 @@
 # 🌙 Nod-Krai: La Tierra Bendecida por la Luna
 
-**Nod-Krai** (en chino: 挪德卡莱, Nuódé Kǎlái) es una región autónoma ubicada en el extremo sur de Snezhnaya, en el límite de Teyvat [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://genshin-impact.fandom.com/es/wiki/Nod_Krai)[](https://genshin-impact.fandom.com/wiki/Nod-Krai?sh=null__8737&m=3&utm_source=reddit&utm_campaign=h2s). Es la séptima región principal del juego, lanzada con la versión 6.0 el 10 de septiembre de 2025 [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://www.infobae.com/malditos-nerds/2025/09/01/genshin-impact-presenta-su-version-60-y-anuncia-los-festejos-de-su-quinto-aniversario/). Es el escenario principal de la serie de misiones **"Canción lunar (Song of the Welkin Moon)"** [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://genshin-impact.fandom.com/es/wiki/Nod_Krai).
+**Nod-Krai** (en chino: 挪德卡莱, Nuódé Kǎlái) es una región autónoma ubicada en el extremo sur de Snezhnaya, en el límite de Teyvat [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://genshin-impact.fandom.com/es/wiki/Nod_Krai)[](https://genshin-impact.fandom.com/wiki/Nod-Krai?sh=null__8737&m=3&utm_source=reddit&utm_campaign=h2s). Es un región del juego, lanzada con la versión 6.0 el 10 de septiembre de 2025 [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://www.infobae.com/malditos-nerds/2025/09/01/genshin-impact-presenta-su-version-60-y-anuncia-los-festejos-de-su-quinto-aniversario/). Es el escenario principal de la serie de misiones **"Canción lunar (Song of the Welkin Moon)"** [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://genshin-impact.fandom.com/es/wiki/Nod_Krai).
 
 ---
 
@@ -38,14 +38,7 @@ Nod-Krai se encuentra al noroeste de Natlan y al sur de la Snezhnaya continental
 
 El **kuuvahki** es una energía antigua y poderosa que fluye por Nod-Krai, anterior incluso a los siete elementos primordiales [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/). Se originó en las Tres Lunas que una vez existieron sobre Teyvat [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://genshin-impact.fandom.com/wiki/Nod-Krai?sh=null__8737&m=3&utm_source=reddit&utm_campaign=h2s).
 
-- **Naturaleza**: Es una energía que moldea el terreno, la vida y las habilidades de los habitantes de Nod-Krai [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/).
-    
-- **Uso en combate**: Ciertos personajes bendecidos por la luna pueden canalizarla a través de **Discos Lunares**, desencadenando **Reacciones Lunares** únicas [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/).
-    
-- **Manifestaciones**: Incluye **Florecimiento Lunar** (con Lauma) y **Electrocargado Lunar** (con Flins) [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/).
-    
-- **Campos Monopolares**: Son áreas comunes en Nod-Krai donde el kuuvahki se manifiesta, utilizadas para rompecabezas y desplazamiento por el mapa [](https://en.wikipedia.org/wiki/Nod-Krai).
-    
+Para más información ver [[Kuuvahki_y_Poder_Lunar]]
 
 ---
 

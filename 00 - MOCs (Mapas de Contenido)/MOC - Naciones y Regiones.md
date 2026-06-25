@@ -31,7 +31,7 @@ Este MOC agrupa todas las naciones y regiones de Teyvat.
 
 - [[Nación_Inazuma]]
 - [[Historia_Inazuma]]
-- [[Enkanomiya]]
+- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]]
 - [[Tsurumi_Island]]
 
 ---
@@ -67,7 +67,7 @@ Este MOC agrupa todas las naciones y regiones de Teyvat.
 
 - [[Nación_Snezhnaya]]
 - [[Historia_Snezhnaya]]
-- [[La_Tsaritsa]]
+- [[04 - Personajes/Arcontes/La_Tsaritsa]]
 
 ---
 

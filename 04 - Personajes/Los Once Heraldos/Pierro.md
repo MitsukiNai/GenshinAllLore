@@ -100,7 +100,7 @@ Pierro es la antítesis de su nombre en clave: a pesar de ser conocido como "El 
     
 - [[Los_Once_Harbingers]] (Lista completa)
     
-- [[La_Tsaritsa]] (Su líder suprema)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Su líder suprema)
     
 - [[Il_Dottore]] (Reclutado por él)
     

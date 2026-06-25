@@ -1,12 +1,12 @@
-# 🃏 Pálida Llama
+# 🃏 **Llamas Albinas**
 
-El conjunto de artefactos **Pálida Llama** es uno de los documentos más importantes para entender la historia de los **Fatui**. Cada pieza del conjunto narra la historia de un Portador diferente, ofreciendo una visión de sus orígenes y motivaciones [](https://genshin-impact.fandom.com/wiki/Pale_Flame?oldid=544612)[](https://genshin-impact.fandom.com/f/p/4400000000000418508). Es, en esencia, un compendio del origen de la organización que busca derrocar el orden celestial.
+El conjunto de artefactos ****Llamas Albinas**** es uno de los documentos más importantes para entender la historia de los **Fatui**. Cada pieza del conjunto narra la historia de un Portador diferente, ofreciendo una visión de sus orígenes y motivaciones [](https://genshin-impact.fandom.com/wiki/Pale_Flame?oldid=544612)[](https://genshin-impact.fandom.com/f/p/4400000000000418508). Es, en esencia, un compendio del origen de la organización que busca derrocar el orden celestial.
 
 ---
 
 ## 📜 El Significado del Conjunto
 
-A diferencia de otros conjuntos que cuentan una sola historia, "Pálida Llama" es un **retrato coral** de los Fatui. Cada pieza está dedicada a un miembro clave, mostrando cómo fueron reclutados por **Pierro**, el Primer Portador, y cómo sus historias individuales convergen en un objetivo común: desafiar a los dioses y reescribir las reglas del destino [](https://genshin-impact.fandom.com/wiki/Pale_Flame?oldid=544612)[](https://progameguides.com/genshin-impact/who-is-pierro-in-genshin-impact/)[](https://www.pockettactics.com/genshin-impact/pierro).
+A diferencia de otros conjuntos que cuentan una sola historia, "**Llamas Albinas**" es un **retrato coral** de los Fatui. Cada pieza está dedicada a un miembro clave, mostrando cómo fueron reclutados por **Pierro**, el Primer Portador, y cómo sus historias individuales convergen en un objetivo común: desafiar a los dioses y reescribir las reglas del destino [](https://genshin-impact.fandom.com/wiki/Pale_Flame?oldid=544612)[](https://progameguides.com/genshin-impact/who-is-pierro-in-genshin-impact/)[](https://www.pockettactics.com/genshin-impact/pierro).
 
 ---
 

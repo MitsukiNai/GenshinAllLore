@@ -6,14 +6,14 @@
 
 ## 🏛️ Atributos Generales
 
-|Atributo|Descripción|
-|---|---|
-|**Arconte**|Raiden Shogun (Baal / Beelzebul), la Arconte Electro|
-|**Elemento**|Electro (Trueno)|
-|**Ideal**|Eternidad|
-|**Inspiración**|Japón del período Edo [](https://es.wikipedia.org/wiki/Inazuma_\(Genshin_Impact\))|
-|**Capital**|Ciudad de Inazuma (Isla Narukami)|
-|**Gobernante**|Shogunato de Inazuma (Bakufu)|
+| Atributo        | Descripción                                                                        |
+| --------------- | ---------------------------------------------------------------------------------- |
+| **Arconte**     | Raiden Shogun (Baal / Beelzebul), la Arconte Electro                               |
+| **Elemento**    | Electro (Trueno)                                                                   |
+| **Ideal**       | Eternidad                                                                          |
+| **Inspiración** | Japón del período Edo [](https://es.wikipedia.org/wiki/Inazuma_\(Genshin_Impact\)) |
+| **Capital**     | Ciudad de Inazuma (Isla Narukami)                                                  |
+| **Gobernante**  | Shogunato de Inazuma (Bakufu)                                                      |
 
 ---
 
@@ -21,14 +21,14 @@
 
 Inazuma es la única nación marítima y archipelágica entre las siete que conforman Teyvat [](https://es.wikipedia.org/wiki/Inazuma_\(Genshin_Impact\)). Está compuesta por seis islas principales [](https://es.wikipedia.org/wiki/Inazuma_\(Genshin_Impact\)):
 
-|Isla|Características Clave|
-|---|---|
-|**Isla Narukami**|Capital (Ciudad de Inazuma), Gran Santuario Narukami, Cerezo Sagrado|
-|**Kannazuka**|Horno Mikage, fortificaciones militares|
-|**Isla Yashiori**|Restos de Orobashi, Desfiladero de Musoujin, lluvias perpetuas|
-|**Isla Seirai**|Tormenta eléctrica eterna, Manifestación del Trueno|
-|**Isla Watatsumi**|Inspirada en el Palacio del Dragón, refugio de Orobashi|
-|**Isla Tsurumi**|Perpetuamente envuelta en densa niebla, civilización desaparecida|
+| Isla               | Características Clave                                                |
+| ------------------ | -------------------------------------------------------------------- |
+| **Isla Narukami**  | Capital (Ciudad de Inazuma), Gran Santuario Narukami, Cerezo Sagrado |
+| **Kannazuka**      | Horno Mikage, fortificaciones militares                              |
+| **Isla Yashiori**  | Restos de Orobashi, Desfiladero de Musoujin, lluvias perpetuas       |
+| **Isla Seirai**    | Tormenta eléctrica eterna, Manifestación del Trueno                  |
+| **Isla Watatsumi** | Inspirada en el Palacio del Dragón, refugio de Orobashi              |
+| **Isla Tsurumi**   | Perpetuamente envuelta en densa niebla, civilización desaparecida    |
 
 ### Geografía Detallada
 
@@ -47,11 +47,11 @@ Inazuma es la única nación marítima y archipelágica entre las siete que conf
 
 Inazuma está gobernada por el **Shogunato de Inazuma** (Bakufu), dirigido por la **Shogun Raiden**. Bajo ella operan las **Tres Comisiones** [](https://www.gamerguides.com/genshin-impact/guide/regions/teyvat/inazuma):
 
-|Comisión|Clan|Función|
-|---|---|---|
-|**Comisión Tenryou**|Clan Kujou|Responsable de la aplicación del Decreto de Cacería de Visiones y la defensa militar|
-|**Comisión Kanjou**|Clan Hiiragi|Responsable de las fronteras, el comercio y el Decreto de Cierre de Fronteras|
-|**Comisión Yashiro**|Clan Kamisato|Responsable de los festivales, eventos culturales y santuarios|
+| Comisión             | Clan          | Función                                                                              |
+| -------------------- | ------------- | ------------------------------------------------------------------------------------ |
+| **Comisión Tenryou** | Clan Kujou    | Responsable de la aplicación del Decreto de Cacería de Visiones y la defensa militar |
+| **Comisión Kanjou**  | Clan Hiiragi  | Responsable de las fronteras, el comercio y el Decreto de Cierre de Fronteras        |
+| **Comisión Yashiro** | Clan Kamisato | Responsable de los festivales, eventos culturales y santuarios                       |
 
 ---
 
@@ -59,11 +59,11 @@ Inazuma está gobernada por el **Shogunato de Inazuma** (Bakufu), dirigido por
 
 ### El Decreto de Cacería de Visiones
 
-Un edicto que ordenaba la confiscación de todas las Visiones en Inazuma. La Shogun Raiden consideraba las Visiones como "objetos divinos" que deberían reservarse para la divinidad [](https://www.gamerguides.com/genshin-impact/guide/regions/teyvat/inazuma). Mientras el decreto estuvo activo, **no aparecieron nuevas Visiones Electro en todo Teyvat** [](https://www.gamerguides.com/genshin-impact/guide/regions/teyvat/inazuma).
+Un edicto que ordenaba la confiscación de todas las Visiones en Inazuma. La Shogun Raiden consideraba las Visiones como "objetos divinos" que deberían reservarse para la divinidad. Mientras el decreto estuvo activo, **no aparecieron nuevas Visiones Electro en todo Teyvat**.
 
 ### El Decreto de Cierre de Fronteras (Sakoku)
 
-Un edicto que aisló completamente Inazuma del resto de Teyvat, impidiendo la entrada o salida de personas y bienes [](https://www.gamerguides.com/genshin-impact/guide/regions/teyvat/inazuma). Esto provocó una escasez de recursos y un colapso económico.
+Un edicto que aisló completamente Inazuma del resto de Teyvat, impidiendo la entrada o salida de personas y bienes. Esto provocó una escasez de recursos y un colapso económico.
 
 ### El Conflicto de Watatsumi
 
@@ -81,7 +81,7 @@ La Isla Watatsumi, que adora a Orobashi, se rebeló contra el Shogunato. La resi
     
 - [[Los_Youkai]] - Kitsune, Tanuki, Oni y Tengu
     
-- [[Enkanomiya]] - Región subterránea bajo Watatsumi
+- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]] - Región subterránea bajo Watatsumi
     
 - [[Tsurumi_Island]] - Isla de la niebla perpetua
     

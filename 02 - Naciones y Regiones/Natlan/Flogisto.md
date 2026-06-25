@@ -52,23 +52,6 @@ Cualquier persona capaz de usar Flogisto, que es prácticamente todo el mundo en
 
 ---
 
-## 🎮 El Flogisto en el Juego
-
-El Flogisto es un **mecanismo de juego** exclusivo de Natlan que los jugadores pueden usar en combate, exploración y como fuente de energía [](https://genshin-impact.fandom.com/wiki/Phlogiston). Tiene varias manifestaciones:
-
-- Flogisto Líquido
-    
-- Flogisto Sólido
-    
-- Flogisto Gaseoso
-    
-- Vías Espirituales (Spiritways) [](https://genshin-impact.fandom.com/wiki/Phlogiston)
-    
-
-El **Medidor de Flogisto** se llena al obtener Flogisto. Se consume cuando el personaje está en el estado de Bendición del Alma Nocturna después de agotar los Puntos de Alma Nocturna, y al usar varias habilidades de Saurios [](https://genshin-impact.fandom.com/wiki/Phlogiston). El jugador puede poseer un máximo de 100 Flogisto [](https://genshin-impact.fandom.com/wiki/Phlogiston).
-
----
-
 ## 🔗 Conexiones Clave
 
 - [[El_Reino_de_la_Noche]]

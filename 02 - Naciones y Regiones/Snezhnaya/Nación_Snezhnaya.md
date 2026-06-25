@@ -88,7 +88,7 @@ Los Fatui utilizan **Delusions**, un poder otorgado por la Tsaritsa que es una 
 
 ## 🎭 Conexiones Clave
 
-- [[04 - Personajes/Archontes/La_Tsaritsa]] - La Arconte Cryo
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] - La Arconte Cryo
     
 - [[Los_Fatui]] - La organización gobernante
     

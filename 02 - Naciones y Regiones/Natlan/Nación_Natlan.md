@@ -1,6 +1,6 @@
 # 🔥 Nación de Natlan: El Reino de la Guerra
 
-**Natlan** es la nación del elemento Pyro y la última de las siete que el Viajero visita en su viaje. Está ubicada al oeste de Sumeru, lindando con el Gran Desierto Rojo [](https://genshin-impact.fandom.com/es/wiki/Natlan). Es una nación única en Teyvat: sus Arcontes son humanos, sus líneas ley son inestables y su gente vive en una guerra constante contra el Abismo. Se inspira en las culturas indígenas de América Latina precolombina, África subsahariana y Oceanía [](https://genshin-impact.fandom.com/es/wiki/Natlan).
+**Natlan** es la nación del elemento Pyro y la sexta que el Viajero visita en su viaje. Está ubicada al oeste de Sumeru, lindando con el Gran Desierto Rojo [](https://genshin-impact.fandom.com/es/wiki/Natlan). Es una nación única en Teyvat: sus Arcontes son humanos, sus líneas ley son inestables y su gente vive en una guerra constante contra el Abismo. Se inspira en las culturas indígenas de América Latina precolombina, África subsahariana y Oceanía [](https://genshin-impact.fandom.com/es/wiki/Natlan).
 
 ---
 
@@ -65,7 +65,7 @@ Cuando un habitante de Natlan sale de la nación, no solo pierde esta protecció
 
 ## ⚠️ Actualización sobre la Gnosis Pyro
 
-Durante la misión de Arconte de Nod-Krai, Mavuika prestó la Gnosis Pyro a Nahida para quemar el Irminsul. **La Gnosis se perdió en el proceso y su paradero actual es desconocido**[citation:6]. Se especula que pudo ser robada de entre los escombros, por lo que **no está en poder ni de Mavuika ni de la Tsaritsa**[citation:6][citation:7].
+Durante la misión de Arconte de Nod-Krai, Mavuika prestó la Gnosis Pyro a Nahida para quemar el Irminsul. **La Gnosis se perdió en el proceso y su paradero actual es desconocido**[citation:6]. Se especula que pudo ser robada de entre los escombros, por lo que **no está en poder de Mavuika**[citation:6][citation:7].
 
 ## 🎭 Conexiones Clave
 

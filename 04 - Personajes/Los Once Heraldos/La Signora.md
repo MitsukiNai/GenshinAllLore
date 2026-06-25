@@ -98,7 +98,7 @@ La Signora es una figura trágica: una mujer que, consumida por el dolor y la se
     
 - [[Los_Once_Harbingers]]
     
-- [[La_Tsaritsa]]
+- [[04 - Personajes/Arcontes/La_Tsaritsa]]
     
 - [[Pierro_El_Bufón]]
     

@@ -72,7 +72,7 @@ Tras la llegada de la Gnosis Hydro a Snezhnaya, Pulcinella colaboró con Pantalo
     
 - [[Los_Once_Harbingers]] (Lista completa)
     
-- [[La_Tsaritsa]] (Su líder suprema)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Su líder suprema)
     
 - [[Tartaglia]] (Reclutado por él)
     

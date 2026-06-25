@@ -17,9 +17,13 @@ Hace miles de años, antes de la Guerra de los Arcontes, **tres dioses gobernar
 
 Los tres eran aliados cercanos y juntos fundaron un gran reino . La Diosa de las Flores, una de los últimos Ángeles supervivientes , se alió con Rukkhadevata y el Rey Deshret tras ser exiliada de Celestia .
 
-### La Muerte de la Diosa de las Flores
+### El Sacrificio de la Diosa de las Flores
 
-Nabu Malikata fue asesinada durante la Guerra de los Arcontes. Su muerte sumió al Rey Deshret en una profunda obsesión por preservar su memoria . Esta obsesión lo llevó a buscar el **Conocimiento Prohibido** para traerla de vuelta . [](https://es.wikipedia.org/wiki/Sumeru_\(Genshin_Impact\))
+El Rey Deshret, ambicioso y decidido a rebelarse contra el orden celestial, buscaba una manera de trascender las leyes del mundo. Una noche, compartió sus deseos más profundos con Nabu Malikata, quien, aunque le advirtió del peligro, encontró en su rebeldía una "admirable vehemencia" [citation:11].
+
+Viendo la determinación de su amigo, la Diosa de las Flores **decidió sacrificarse voluntariamente** para ayudarle. Consciente de su destino, ofreció su propio cuerpo como conducto para guiar al Rey Deshret hacia el **Conocimiento Prohibido**, sabiendo que este acto acabaría con su vida [citation:5][citation:7][citation:9].
+
+Tras su sacrificio, una tormenta de arena devoró el paraíso que habían construido juntos. El Rey Deshret regresó, pero de la Diosa de las Flores nunca más se supo [citation:9]. Su muerte sumió al Rey Deshret en una profunda obsesión, que finalmente lo llevó a la locura y a la ruina de su reino [citation:1][citation:5][citation:7].
 
 ### La Caída del Rey Deshret
 
@@ -50,7 +54,7 @@ La **Gran Señora Rukkhadevata** creó el **Sistema Akasha** para combatir e
 
 ## 💥 El Cataclismo y la Muerte de Rukkhadevata
 
-Durante el **Cataclismo** hace 500 años, el Conocimiento Prohibido volvió a infectar Irminsul. Rukkhadevata se sacrificó para purgar la contaminación, muriendo en el proceso [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya).
+Durante el **Cataclismo** hace 500 años, el Conocimiento Prohibido volvió a infectar el Irminsul. Rukkhadevata se sacrificó para purgar la contaminación, muriendo en el proceso [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya).
 
 Para sobrevivir, creó una **encarnación pura de sí misma**: la **Reina Menor Kusanali (Nahida)**, quien la sucedió como la nueva Arconte Dendro. Sin embargo, los Sabios de la Akademiya, decepcionados por la falta de sabiduría de la recién nacida Kusanali, la **encarcelaron** y gobernaron Sumeru en su lugar durante 500 años [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya)[](https://es.wikipedia.org/wiki/Sumeru_\(Genshin_Impact\)).
 

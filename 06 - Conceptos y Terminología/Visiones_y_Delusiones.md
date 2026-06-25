@@ -92,7 +92,7 @@ Existe una interesante teoría que relaciona la forma de usar un Engaño con el 
 
 - [[Los_Siete_Arcontes]] (Otorgantes de las Visiones)
     
-- [[La_Tsaritsa]] (Fuente de los Engaños para los Fatui)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Fuente de los Engaños para los Fatui)
     
 - [[Los_Fatui]] (Fabricantes y distribuidores de Engaños)
     

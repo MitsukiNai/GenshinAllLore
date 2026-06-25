@@ -90,7 +90,7 @@ El misterio se resolvió cuando se reveló que la verdadera amenaza era el **Na
     
 - [[Los_Once_Harbingers]] (Lista completa)
     
-- [[La_Tsaritsa]] (Su líder suprema)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Su líder suprema)
     
 - [[Pulcinella]] (Quien lo reclutó)
     

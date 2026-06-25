@@ -48,7 +48,7 @@ El pueblo de Watatsumi, que reconoce a la Shogun Raiden como su gobernante legí
 
 ## 📚 Conexiones Clave
 
-- [[Enkanomiya]] (El reino donde fue encontrado)
+- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]] (El reino donde fue encontrado)
     
 - [[Watatsumi_Island]] (La isla que creó)
     

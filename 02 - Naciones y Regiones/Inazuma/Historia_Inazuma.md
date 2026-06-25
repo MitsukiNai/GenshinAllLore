@@ -78,7 +78,7 @@ El Viajero desafió a la Shogun Raiden en el **Plano de la Eutimia** y la derr
     
 - [[Orobashi]]
     
-- [[Enkanomiya]]
+- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]]
     
 - [[El_Cataclismo_(500_años)]]
     

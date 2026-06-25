@@ -65,10 +65,3 @@ Para que quede claro, aquí está el resumen definitivo de la jerarquía:
 - La creencia popular de que los humanos ascienden a Celestia para convertirse en dioses es una de las **fachadas** del sistema. La mayoría de los Arcontes evitan hablar del tema, lo que sugiere que es más un mecanismo de control que una recompensa divina [](https://genshin-impact.fandom.com/f/p/4400000000000468213/r/4400000000002139047)[](https://www.ginx.tv/en/everything-we-know-about-celestia-the-floating-island-of-the-gods-from-genshin-impact).
     
 
----
-
-**🔗 Conexiones con tus archivos actuales:**
-
-- Conecta esto directamente con `[[Primordial_One_(Phanes)]]`, `[[Las_Cuatro_Sombras]]`, `[[Los_Descendidos]]` y `[[La_Creación_de_las_Gnosis]]`.
-    
-- También refuerza el lore de `[[Sal_Vindagnyr]]`, ya que el Pilar Celestial que cayó sobre la montaña es una herramienta de castigo de Celestia [](https://genshin-impact.fandom.com/f/p/4400000000000468213/r/4400000000002139047).

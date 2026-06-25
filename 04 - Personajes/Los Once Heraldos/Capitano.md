@@ -96,7 +96,7 @@ Capitano era conocido entre los Fatui por su fuerza, su habilidad como comandant
     
 - [[Los_Once_Harbingers]] (Lista completa)
     
-- [[La_Tsaritsa]] (Su líder suprema)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Su líder suprema)
     
 - [[Pierro_El_Bufón]] (Director de los Fatui)
     

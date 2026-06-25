@@ -98,7 +98,7 @@ Arlecchino es una antiheroína que se mueve en la delgada línea entre el bien y
     
 - [[Los_Once_Harbingers]] (Lista completa)
     
-- [[La_Tsaritsa]] (Su líder suprema)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Su líder suprema)
     
 - [[Pierro_El_Bufón]] (Quien le reveló su origen)
     

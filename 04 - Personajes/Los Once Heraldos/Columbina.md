@@ -97,7 +97,7 @@ Columbina es una joven de piel pálida con largos cabellos negros con reflejos r
     
 - [[Los_Once_Harbingers]] (Lista completa)
     
-- [[La_Tsaritsa]] (Su líder suprema)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Su líder suprema)
     
 - [[Il_Dottore]] (Su némesis)
     

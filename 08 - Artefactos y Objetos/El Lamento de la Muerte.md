@@ -1,6 +1,6 @@
 # 🩸 El Lamento de la Muerte
 
-**El Lamento de la Muerte** es una lanza de 4 estrellas que se obtiene a través del **Pase de Batalla (Gnostic Hymn)** . Es un arma de un rojo carmesí que narra la vida y la trágica muerte de un gladiador, un hombre cuya existencia entera giró en torno a la batalla y a la lealtad a su joven amo, **Eberhart** .
+**El Lamento de la Muerte** es una lanza de 4 estrellas que se obtiene a través del **Pase de Batalla. Es un arma de un rojo carmesí que narra la vida y la trágica muerte de un gladiador, un hombre cuya existencia entera giró en torno a la batalla y a la lealtad a su joven amo, **Eberhart** .
 
 ---
 

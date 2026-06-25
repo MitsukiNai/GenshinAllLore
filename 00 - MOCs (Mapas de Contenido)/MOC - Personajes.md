@@ -16,7 +16,7 @@ Este MOC agrupa todos los personajes jugables y NPCs importantes del lore de Gen
 - [[Buer_Nahida]]
 - [[Focalors_Furina]]
 - [[Mavuika]]
-- [[La_Tsaritsa]]
+- [[04 - Personajes/Arcontes/La_Tsaritsa]]
 
 ---
 

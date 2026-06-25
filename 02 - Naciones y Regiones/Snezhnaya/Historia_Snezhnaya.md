@@ -80,7 +80,7 @@ Actualmente, la Tsaritsa supervisa un plan conocido como **Proyecto Stuzha** (
 
 ## 🔗 Conexiones Clave
 
-- [[04 - Personajes/Archontes/La_Tsaritsa]]
+- [[04 - Personajes/Arcontes/La_Tsaritsa]]
     
 - [[El_Belyi_Tsar]]
     

@@ -133,7 +133,7 @@ La Tsaritsa ha enviado a sus Portadores de los Fatui a recolectar todas las Gnos
     
 - [[Los_Fatui]] (Recolectores)
     
-- [[La_Tsaritsa]] (La que los busca)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (La que los busca)
     
 - [[Los_Descendidos]] (Origen de las Gnosis)
     

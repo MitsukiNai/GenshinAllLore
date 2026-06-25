@@ -32,30 +32,6 @@ Alain y René utilizaron las características de Ousía y Pneuma para construir 
 Tras su éxito, Alain fundó el **Instituto de Investigación de Ingeniería y Energía Cinética de Fontaine**, dedicado al estudio de máquinas y energía [](https://wiki.hoyolab.com/pc/genshin/entry/4603?lang=es-es). La mayoría de los **Mecabots** de Fontaine se impulsan mediante bloques de energía que utilizan reacciones de aniquilación controladas de Pneuma-Ousía [](https://wiki.hoyolab.com/pc/genshin/entry/4603?lang=es-es).
 
 ---
-
-## 🎮 Mecánicas de Juego
-
-### Personajes de Fontaine
-
-Los personajes nativos de Fontaine pueden aplicar atributos de Pneuma o Ousía a través de sus habilidades [](https://en.m.wikipedia.org/wiki/Fontaine_\(Genshin_Impact\)). Algunos ejemplos:
-
-- **Lyney** (Pyro): Aplica Ousía en sus habilidades.
-    
-- **Lynette** (Anemo): Aplica Pneuma.
-    
-- **Neuvillette** (Hydro): Aplica Pneuma o Ousía según el estado.
-    
-
-### Reacciones en Combate
-
-En el juego, atacar a un enemigo con una alineación de Ousía con un ataque de Pneuma (o viceversa) **cambia su patrón de comportamiento**, facilitando el combate [](https://en.m.wikipedia.org/wiki/Fontaine_\(Genshin_Impact\)). Muchos puzzles en Fontaine también requieren el uso de este sistema [](https://en.m.wikipedia.org/wiki/Fontaine_\(Genshin_Impact\)).
-
-### Burbujas de Energía
-
-Algunos mecanismos en Fontaine emiten **burbujas de Pneuma o Ousía** que pueden ser recolectadas temporalmente, permitiendo a cualquier personaje (no solo los de Fontaine) aplicar esta energía [](https://en.m.wikipedia.org/wiki/Fontaine_\(Genshin_Impact\)).
-
----
-
 ## 🔗 Conexiones Clave
 
 - [[Alain_Guillotin]]

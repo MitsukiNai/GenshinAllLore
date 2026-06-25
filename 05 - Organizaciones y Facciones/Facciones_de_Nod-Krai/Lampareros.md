@@ -82,7 +82,7 @@ En el juego, existe una misión oculta llamada **"El Juramento de los Lamparero
     
 - [[La_Cacería_Salvaje]] (Su enemigo principal)
     
-- [[La_Tsaritsa]] (Quien los fundó por decreto real)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Quien los fundó por decreto real)
     
 - [[Los_Descendientes_Lunaescarcha]] (Relacionados con su fundación)
     

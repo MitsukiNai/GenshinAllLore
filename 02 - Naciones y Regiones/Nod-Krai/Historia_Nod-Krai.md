@@ -19,13 +19,13 @@ Nod-Krai es el **resto de una cuarta luna que no llegó a materializarse** en 
 
 Tras el Cataclismo de hace 500 años, Nod-Krai fue **uno de los primeros lugares atacados por el Abismo** [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://genshin-impact.fandom.com/es/wiki/Nod_Krai). La región quedó marcada por esta invasión.
 
-### La Cacería Salvaje (Wild Hunt)
+### La Cacería Salvaje 
 
 Una amenaza constante en Nod-Krai es la **Cacería Salvaje**, un grupo de entidades abismales que drenan la vitalidad de la tierra [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/). Está controlada por **Rerir**, uno de los **Cinco Pecadores de Khaenri'ah**, quien usa su poder para restaurar su fuerza y reconstruir su cuerpo [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://genshin-impact.fandom.com/wiki/Nod-Krai?sh=null__8737&m=3&utm_source=reddit&utm_campaign=h2s).
 
-- **Los Lampareros**: Para combatir esta amenaza, se estableció la organización de los **Lampareros (Lightkeepers)**, que han defendido Nod-Krai durante siglos [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/).
+- **Los Lampareros**: Para combatir esta amenaza, se estableció la organización de los **Lampareros, que han defendido Nod-Krai durante siglos [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/).
     
-- **Varka y los Caballeros**: Tras obtener información sobre las incursiones abismales, el Gran Maestre **Varka** y los Caballeros de Favonius partieron hacia Nod-Krai [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://www.indiatodaygaming.com//news/story/genshin-impact-nod-krai-trailer-reveals-11-new-characters-moon-lore-and-version-60-factions-10211).
+- **Varka y los Caballeros**: Tras obtener información sobre las incursiones abismales, el Gran Maestro **Varka** y los Caballeros de Favonius partieron hacia Nod-Krai [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://www.indiatodaygaming.com//news/story/genshin-impact-nod-krai-trailer-reveals-11-new-characters-moon-lore-and-version-60-factions-10211).
     
 
 ---

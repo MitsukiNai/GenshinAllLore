@@ -21,25 +21,6 @@ El kuuvahki es una de las formas más antiguas de energía en Teyvat, originada 
 
 ---
 
-## 🎮 Mecánicas de Juego
-
-### Discos Lunares
-
-Los personajes bendecidos por la luna pueden llevar un **Disco Lunar** que les permite canalizar el poder del kuuvahki [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/).
-
-### Reacciones Lunares
-
-|Reacción|Descripción|Personajes Asociados|
-|---|---|---|
-|**Florecimiento Lunar**|Una versión mejorada de la reacción de Florecimiento. Lauma puede recolectar "rocío de la espesura" para infligir daño CRIT [](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/).|Lauma (Dendro)|
-|**Electrocargado Lunar**|Una versión mejorada de Electrocargado. Flins puede ajustar su estrategia entre daño rápido o sostenido [](https://en.wikipedia.org/wiki/Nod-Krai)[](https://blog.es.playstation.com/2025/08/29/version-luna-i-de-genshin-impact-la-luna-ilumina-nuevas-historias-en-nod-krai/).|Flins (Electro)|
-
-### Moonsign (Señal Lunar)
-
-El sistema **Moonsign** proporciona mejoras dependiendo del número de personajes de Nod-Krai en el equipo [](https://en.wikipedia.org/wiki/Nod-Krai).
-
----
-
 ## 🔗 Conexiones Clave
 
 - [[Las_Tres_Lunas_(Aria_Sonnet_Canon)]] - Origen del poder

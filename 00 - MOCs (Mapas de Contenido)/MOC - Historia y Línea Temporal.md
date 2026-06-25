@@ -24,7 +24,7 @@ Este MOC agrupa todos los eventos históricos de Teyvat, desde las civilizacione
 
 ## 🏛️ Civilizaciones Antiguas
 
-- [[Enkanomiya]]
+- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]]
 - [[Remuria]]
 - [[Sal_Vindagnyr]]
 

@@ -1,6 +1,6 @@
-# 🛡️ Cazadora de Sombras
+# 🛡️ Cazador Fantasmal
 
-El conjunto de artefactos **Cazadora de Sombras** (Marechaussee Hunter) narra la fundación y la evolución de la **Gendarmería Fantasmal (Marechaussée Phantom)**, la división de élite de la Corte de Fontaine encargada de investigar y eliminar amenazas sobrenaturales. Su historia está ligada al misterioso **Cassiodor**, el primer "Cazador Dorado", y a la integración de las **Melusines** en sus filas [](https://wiki.bittopup.com/pt/genshin/artifacts/15031).
+El conjunto de artefactos **Cazador Fantasmal** (Marechaussee Hunter) narra la fundación y la evolución de la **Gendarmería Fantasmal (Marechaussée Phantom)**, la división de élite de la Corte de Fontaine encargada de investigar y eliminar amenazas sobrenaturales. Su historia está ligada al misterioso **Cassiodor**, el primer "Cazador Dorado", y a la integración de las **Melusines** en sus filas [](https://wiki.bittopup.com/pt/genshin/artifacts/15031).
 
 ---
 
@@ -8,7 +8,7 @@ El conjunto de artefactos **Cazadora de Sombras** (Marechaussee Hunter) narra 
 
 ### La Fundación de la Gendarmería Fantasmal
 
-El origen del nombre **"Cazador de Sombras"** se atribuye a un tal **Cassiodor**, que más tarde recibiría el título de **"Cazador Dorado"**. La misión que inspiró su nombre era clara: _"Persigue a los fantasmas en la oscuridad. Expúlsalos y cázalos hasta el último."_ [](https://wiki.bittopup.com/pt/genshin/artifacts/15031). Sin embargo, Cassiodor veía este título como una humillación, lo que sugiere un pasado o una naturaleza que prefería mantener en secreto [](https://wiki.bittopup.com/pt/genshin/artifacts/15031).
+El origen del nombre **"Cazador Fantasmal"** se atribuye a un tal **Cassiodor**, que más tarde recibiría el título de **"Cazador Dorado"**. La misión que inspiró su nombre era clara: _"Persigue a los fantasmas en la oscuridad. Expúlsalos y cázalos hasta el último."_ [](https://wiki.bittopup.com/pt/genshin/artifacts/15031). Sin embargo, Cassiodor veía este título como una humillación, lo que sugiere un pasado o una naturaleza que prefería mantener en secreto [](https://wiki.bittopup.com/pt/genshin/artifacts/15031).
 
 La Gendarmería Fantasmal fue fundada poco después de la caída de **Remuria**, durante el reinado de **Egeria**, con el objetivo original de eliminar a los monstruos liberados durante la caída del imperio. Con el tiempo, su enfoque cambió de la caza de herejes y demonios a la investigación de actividades criminales.
 

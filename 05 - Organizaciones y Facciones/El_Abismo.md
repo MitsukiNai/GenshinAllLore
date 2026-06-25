@@ -42,7 +42,7 @@ La mayoría de los miembros de la Orden del Abismo son antiguos ciudadanos de Kh
 
 ### Objetivos: El Telar del Destino y un Nuevo Mundo
 
-El principal proyecto de la Orden es el **"Telar del Destino"** (Loom of Fate), un mecanismo capaz de **tejer nuevas Líneas Ley** [](https://wiki.hoyolab.com/pc/genshin/entry/7784?lang=en-us)[](https://wiki.hoyolab.com/m/genshin/entry/5747). El objetivo final es crear un "Atlas del Nuevo Mundo", restaurando las Líneas Ley de Khaenri'ah basadas en los recuerdos de hace 500 años y, en esencia, reconstruyendo su nación en un nuevo mundo liberado de los dioses [](https://wiki.hoyolab.com/m/genshin/entry/5747).
+El principal proyecto de la Orden es el **"Telar del Destino"**, un mecanismo capaz de **tejer nuevas Líneas Ley** [](https://wiki.hoyolab.com/pc/genshin/entry/7784?lang=en-us)[](https://wiki.hoyolab.com/m/genshin/entry/5747). El objetivo final es crear un "Atlas del Nuevo Mundo", restaurando las Líneas Ley de Khaenri'ah basadas en los recuerdos de hace 500 años y, en esencia, reconstruyendo su nación en un nuevo mundo liberado de los dioses [](https://wiki.hoyolab.com/m/genshin/entry/5747).
 
 ---
 

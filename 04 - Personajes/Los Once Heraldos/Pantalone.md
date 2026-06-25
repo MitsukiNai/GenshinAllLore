@@ -86,7 +86,7 @@ Pantalone es descrito como un **hombre de mente aguda y ambición desmedida**. 
     
 - [[Los_Once_Harbingers]]
     
-- [[La_Tsaritsa]]
+- [[04 - Personajes/Arcontes/La_Tsaritsa]]
     
 - [[Il_Dottore]]
     

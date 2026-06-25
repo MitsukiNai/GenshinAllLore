@@ -24,19 +24,10 @@ Algunas Oceánidas, creadas por Egeria, deseaban vivir en la superficie y conver
 
 ## 🎵 El Imperio de Remuria
 
-### La Llegada de Remus
+La civilización de Remuria fue el antecedente directo del Fontaine actual. Fundada por el dios forastero **Remus** y la vidente **Sybilla**, este imperio sucumbió a su propia arrogancia y a los designios del destino, allanando el camino para el ascenso de la primera Arconte Hydro.
 
-Tras la caída de Gurabad en Sumeru, **Remus** llegó a los mares de Fontaine, descubriendo las ruinas de una ciudad olvidada y conociendo a **Sybilla**, una de los últimos **Ángeles** supervivientes [](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488). Sybilla predijo que Remus fundaría un gran imperio, pero que su deseo de justicia llevaría a su caída [](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488).
-
-### La Caída de Remuria
-
-Remus, en un intento por salvar a su pueblo de la profecía, mezcló el agua primigenia con una piedra inmortal para crear un **Ichor Dorado** que contenía las almas de su pueblo, colocándolas en Golems [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488). Creó la **Gran Sinfonía** para unificar los deseos de su pueblo. Sin embargo, el pueblo se volvió arrogante y sediento de sangre [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488).
-
-Remus, al ver la degradación moral, conspiró con el Rey Dragón **Escila** para destruir la Gran Sinfonía, pero ambos perecieron en el intento. Remuria y su pueblo fueron arrastrados por el Abismo y se hundieron bajo el mar [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488).
-
-### El Ascenso de Egeria
-
-Tras la destrucción de Remuria, **Celestia ordenó a Egeria regresar de su prisión** para tomar el lugar de Remus y gobernar Fontaine [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488). Egeria reunió a los supervivientes y estableció una nueva era guiada por la ley [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488). Se le otorgó una Gnosis y ascendió como la **Arconte Hydro**, convirtiéndose en una de Los Siete [](https://genshin-impact.fandom.com/pt-br/wiki/Fontaine/Hist%C3%B3ria)[](https://genshin-impact.fandom.com/wiki/Fontaine/History?direction=next&oldid=1661488).
+> **Para conocer la historia completa de esta antigua civilización, consulta el archivo dedicado:**  
+> ➡️ [[Remuria|Remuria]]
 
 ---
 

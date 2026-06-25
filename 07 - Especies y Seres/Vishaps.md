@@ -57,7 +57,7 @@ Los Vishaps Pyro vivían en Natlan, donde eran gobernados por **Xiuhcoatl** y 
     
 - [[Neuvillette]] (Soberano Hydro renacido como humano)
     
-- [[Enkanomiya]] (Hogar de los Vishaps Hydro)
+- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]] (Hogar de los Vishaps Hydro)
     
 - [[Natlan]] (Hogar de los Vishaps Pyro/Saurios)
     

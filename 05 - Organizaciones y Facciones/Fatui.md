@@ -79,7 +79,7 @@ Los **Engaños (Delusions)** son "tesoros" otorgados por la Tsaritsa a los Onc
 
 ## 🔗 Conexiones Clave
 
-- [[La_Tsaritsa]] (Líder Suprema)
+- [[04 - Personajes/Arcontes/La_Tsaritsa]] (Líder Suprema)
     
 - [[Pierro_El_Bufón]] (Fundador y Primer Portador)
     
