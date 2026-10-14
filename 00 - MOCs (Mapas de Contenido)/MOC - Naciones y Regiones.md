@@ -31,7 +31,6 @@ Este MOC agrupa todas las naciones y regiones de Teyvat.
 
 - [[Nación_Inazuma]]
 - [[Historia_Inazuma]]
-- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]]
 - [[Tsurumi_Island]]
 
 ---
@@ -88,8 +87,11 @@ Este MOC agrupa todas las naciones y regiones de Teyvat.
 
 ---
 
-## 🔗 Conexiones Clave
+## 🏛️ Civilizaciones Antiguas
 
-- [[La_Guerra_Arconte]]
-- [[El_Cataclismo_(500_años)]]
-- [[Línea_Temporal_General]]
+- [[Remuria]]
+- [[Sal_Vindagnyr]]
+- [[03 - Historia y Línea Temporal/Historia de Civilizaciones Antiguas/Enkanomiya|Enkanomiya]]
+
+---
+

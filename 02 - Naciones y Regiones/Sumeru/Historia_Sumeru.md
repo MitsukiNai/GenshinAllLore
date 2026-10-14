@@ -6,7 +6,7 @@ La historia de Sumeru se extiende a lo largo de miles de años, desde el reinado
 
 ## 👑 La Era de los Tres Dioses-Reyes
 
-Hace miles de años, antes de la Guerra de los Arcontes, **tres dioses gobernaron juntos Sumeru** en una alianza única : [](https://es.wikipedia.org/wiki/Sumeru_\(Genshin_Impact\))
+Hace miles de años, antes de la Guerra de los Arcontes, **tres dioses gobernaron juntos Sumeru** en una alianza única: )
 
 - **La Gran Señora Rukkhadevata** (Arconte Dendro original)
     
@@ -15,7 +15,7 @@ Hace miles de años, antes de la Guerra de los Arcontes, **tres dioses gobernar
 - **Nabu Malikata**, la Diosa de las Flores
     
 
-Los tres eran aliados cercanos y juntos fundaron un gran reino . La Diosa de las Flores, una de los últimos Ángeles supervivientes , se alió con Rukkhadevata y el Rey Deshret tras ser exiliada de Celestia .
+Los tres eran aliados cercanos y juntos fundaron un gran reino. La Diosa de las Flores, una de los últimos Ángeles supervivientes, se alió con Rukkhadevata y el Rey Deshret tras ser exiliada de Celestia.
 
 ### El Sacrificio de la Diosa de las Flores
 
@@ -27,36 +27,36 @@ Tras su sacrificio, una tormenta de arena devoró el paraíso que habían constr
 
 ### La Caída del Rey Deshret
 
-El Conocimiento Prohibido trajo consecuencias catastróficas a Sumeru :
+El Conocimiento Prohibido trajo consecuencias catastróficas a Sumeru:
 
-- **Infección de Irminsul**: La red de memoria de Teyvat fue contaminada [](https://es.wikipedia.org/wiki/Sumeru_\(Genshin_Impact\))
+- **Infección de Irminsul**: La red de memoria de Teyvat fue contaminada )
     
 - **Aparición del Marchitamiento**: Zonas corruptas que infectan la tierra
     
 - **El Eleazar**: Una enfermedad mortal que afectó a los habitantes
     
 
-Para detener la corrupción, el Rey Deshret **se sacrificó** . Su dominio fue devastado, y la selva tropical que conocemos hoy fue creada por Rukkhadevata para purificar la contaminación . [](https://es.wikipedia.org/wiki/Sumeru_\(Genshin_Impact\))
+Para detener la corrupción, el Rey Deshret **se sacrificó**. Su dominio fue devastado, y la selva tropical que conocemos hoy fue creada por Rukkhadevata para purificar la contaminación. )
 
 ---
 
 ## 🏛️ La Fundación de la Akademiya
 
-Tras la muerte de sus dos aliados, Rukkhadevata fundó la **Akademiya de Sumeru**, la principal institución académica de Teyvat . La Akademiya fue establecida por el primer Sabio, quien viajó para encontrar a la Arconte Dendro. Su piedad y sabiduría obtuvieron el reconocimiento de la Arconte, quien le concedió acceso a todo el conocimiento del mundo. Tras dominar todo lo que pudo comprender, el Sabio regresó y fundó la Akademiya [](https://baike.baidu.com/en/item/The%20Akademiya/1493399).
+Tras la muerte de sus dos aliados, Rukkhadevata fundó la **Akademiya de Sumeru**, la principal institución académica de Teyvat. La Akademiya fue establecida por el primer Sabio, quien viajó para encontrar a la Arconte Dendro. Su piedad y sabiduría obtuvieron el reconocimiento de la Arconte, quien le concedió acceso a todo el conocimiento del mundo. Tras dominar todo lo que pudo comprender, el Sabio regresó y fundó la Akademiya.
 
 ### Los Seis Sabios y la Creación del Sistema Akasha
 
-Con el tiempo, la Akademiya estableció el sistema de los **Seis Sabios**, cada uno liderando una de las seis Dársanas . El Gran Sabio era elegido entre ellos como la máxima autoridad [](https://baike.baidu.com/en/item/The%20Akademiya/1493399).
+Con el tiempo, la Akademiya estableció el sistema de los **Seis Sabios**, cada uno liderando una de las seis Dársanas. El Gran Sabio era elegido entre ellos como la máxima autoridad.
 
-La **Gran Señora Rukkhadevata** creó el **Sistema Akasha** para combatir el Conocimiento Prohibido . El sistema almacenaba y distribuía conocimiento a través de terminales, gestionando el conocimiento como un recurso [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya)[](https://genshin-impact.fandom.com/wiki/Sumeru/Culture?diff=prev&oldid=766312).
+La **Gran Señora Rukkhadevata** creó el **Sistema Akasha** para combatir el Conocimiento Prohibido. El sistema almacenaba y distribuía conocimiento a través de terminales, gestionando el conocimiento como un recurso.
 
 ---
 
 ## 💥 El Cataclismo y la Muerte de Rukkhadevata
 
-Durante el **Cataclismo** hace 500 años, el Conocimiento Prohibido volvió a infectar el Irminsul. Rukkhadevata se sacrificó para purgar la contaminación, muriendo en el proceso [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya).
+Durante el **Cataclismo** hace 500 años, el Conocimiento Prohibido volvió a infectar el Irminsul. Rukkhadevata se sacrificó para purgar la contaminación, muriendo en el proceso.
 
-Para sobrevivir, creó una **encarnación pura de sí misma**: la **Reina Menor Kusanali (Nahida)**, quien la sucedió como la nueva Arconte Dendro. Sin embargo, los Sabios de la Akademiya, decepcionados por la falta de sabiduría de la recién nacida Kusanali, la **encarcelaron** y gobernaron Sumeru en su lugar durante 500 años [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya)[](https://es.wikipedia.org/wiki/Sumeru_\(Genshin_Impact\)).
+Para sobrevivir, creó una **encarnación pura de sí misma**: la **Reina Menor Kusanali (Nahida)**, quien la sucedió como la nueva Arconte Dendro. Sin embargo, los Sabios de la Akademiya, decepcionados por la falta de sabiduría de la recién nacida Kusanali, la **encarcelaron** y gobernaron Sumeru en su lugar durante 500 años ).
 
 ---
 
@@ -64,7 +64,7 @@ Para sobrevivir, creó una **encarnación pura de sí misma**: la **Reina Meno
 
 ### La Conspiración de los Sabios
 
-Los Sabios de la Akademiya, liderados por el Gran Sabio **Azar** de Rtawahist, conspiraron con los Fatui para crear un nuevo dios, reemplazando a Kusanali . [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya)[](https://baike.baidu.com/en/item/The%20Akademiya/1493399)
+Los Sabios de la Akademiya, liderados por el Gran Sabio **Azar** de Rtawahist, conspiraron con los Fatui para crear un nuevo dios, reemplazando a Kusanali. 
 
 - Utilizaron el **Samsara de los Sueños** para cosechar energía de los ciudadanos
     
@@ -75,25 +75,4 @@ Los Sabios de la Akademiya, liderados por el Gran Sabio **Azar** de Rtawahist,
 
 ### El Fin del Sistema Akasha
 
-Tras su liberación, Nahida derrotó a los Sabios corruptos y **desmanteló el Sistema Akasha**, cortando el control de la Akademiya sobre el conocimiento [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya)[](https://es.wikipedia.org/wiki/Sumeru_\(Genshin_Impact\)). También purificó el Conocimiento Prohibido, **borrando todo rastro de Rukkhadevata** de las memorias de Teyvat, incluso la suya propia. Solo el Viajero quedó como testigo de su existencia [](https://es.wikipedia.org/wiki/Sumeru_\(Genshin_Impact\)).
-
----
-
-## 🔗 Conexiones Clave
-
-- [[Rukkhadevata]]
-    
-- [[Nahida]]
-    
-- [[El_Rey_Deshret]]
-    
-- [[Nabu_Malikata]]
-    
-- [[La_Akademiya]]
-    
-- [[El_Cataclismo_(500_años)]]
-    
-- [[La_Guerra_de_los_Arcontes]]
-    
-- [[El_Conocimiento_Prohibido]]
-
+Tras su liberación, Nahida derrotó a los Sabios corruptos y **desmanteló el Sistema Akasha**, cortando el control de la Akademiya sobre el conocimiento ). También purificó el Conocimiento Prohibido, **borrando todo rastro de Rukkhadevata** de las memorias de Teyvat, incluso la suya propia. Solo el Viajero quedó como testigo de su existencia ).

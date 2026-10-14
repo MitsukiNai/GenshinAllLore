@@ -53,22 +53,3 @@ Se sabe que hay una octava bruja que aún no ha sido presentada oficialmente en 
 |**Scarlett**|Discípula de I. Ivanovna N.|[[Scarlett]]|
 |**Mona Megistus**|Discípula de Barbeloth (no es miembro)|[[Mona]]|
 
----
-
-## 🔗 Conexiones Clave
-
-- [[Alice]] (Fundadora)
-    
-- [[Rhinedottir]] (Miembro y una de los Cinco Pecadores)
-    
-- [[Nicole]] (Miembro, posible Ángel)
-    
-- [[Barbeloth]] (Miembro, maestra de Mona)
-    
-- [[Andersdotter]] (Miembro, autora de _El Cuento de la Princesa Pálida_)
-    
-- [[El_Irminsul]] (Objeto de estudio)
-    
-- [[Simulanka]] (Mundo creado por el Hexenzirkel)
-    
-- [[El_Cataclismo_(500_años)]] (Evento en el que estuvieron implicados)

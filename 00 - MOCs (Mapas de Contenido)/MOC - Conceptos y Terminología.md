@@ -10,7 +10,7 @@ Este MOC agrupa todos los conceptos y términos clave del lore de Genshin Impact
 
 ## ⚡ Poder y Energía
 
-- [[Visiones_y_Delusiones]]
+- [[Visiones_y_Engaños]]
 - [[Gnosis]]
 - [[Tronos_Divinos]]
 - [[Flogisto]]

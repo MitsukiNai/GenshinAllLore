@@ -24,7 +24,7 @@ Este MOC agrupa todas las teorías y conexiones del lore de Genshin Impact.
 
 ## 🔗 Conexiones Clave
 
-- [[Primordial_One_(Phanes)]]
+- [[Fanes_El_Primordial]]
 - [[Los_Descendidos]]
 - [[Celestia_y_el_Orden_Celestial]]
 - [[Gnosis]]

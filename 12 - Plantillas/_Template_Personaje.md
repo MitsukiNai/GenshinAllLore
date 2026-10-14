@@ -21,7 +21,7 @@ tags: [personaje, #nación, #afiliación]
 
 ## Relaciones
 - [[Nombre de otro personaje]]: descripción
-- ...
+-...
 
 ## Apariciones y Menciones
 - [[Misión X]]

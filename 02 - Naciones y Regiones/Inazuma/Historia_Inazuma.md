@@ -8,19 +8,19 @@ La historia de Inazuma se extiende a lo largo de miles de años, desde la era de
 
 ### La Guerra Tanuki-Kitsune
 
-Hace más de 5.300 años, los **tanuki** (criaturas nativas de Inazuma) evolucionaron y adquirieron conciencia. Los **kitsune** emigraron desde el continente de Teyvat e intentaron colonizar las islas, desencadenando una **guerra entre los tanuki y los kitsune** por el control de Inazuma [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma).
+Hace más de 5.300 años, los **tanuki** (criaturas nativas de Inazuma) evolucionaron y adquirieron conciencia. Los **kitsune** emigraron desde el continente de Teyvat e intentaron colonizar las islas, desencadenando una **guerra entre los tanuki y los kitsune** por el control de Inazuma.
 
-**Duración**: La guerra duró **1.600 años** [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma).
+**Duración**: La guerra duró **1.600 años**.
 
-**Resultado**: Los kitsune obtuvieron la victoria y se estableció una tregua. Los tanuki se negaron a admitir su derrota, pero cedieron el **"Cerezo del Trueno"** a los kitsune [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma). Las tierras ganadas por los kitsune fueron llamadas las **"Tierras de Hakushin"** en honor a la gran Kitsune Hakushin [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma).
+**Resultado**: Los kitsune obtuvieron la victoria y se estableció una tregua. Los tanuki se negaron a admitir su derrota, pero cedieron el **"Cerezo del Trueno"** a los kitsune. Las tierras ganadas por los kitsune fueron llamadas las **"Tierras de Hakushin"** en honor a la gran Kitsune Hakushin.
 
 ### El Nacimiento de las Diosas Gemelas
 
-Durante esta época, las diosas gemelas **Raiden Makoto (Baal)** y **Raiden Ei (Beelzebul)** nacieron de un rayo divino [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma). Los kitsune se convirtieron en sus devotos sirvientes y mensajeros [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma).
+Durante esta época, las diosas gemelas **Raiden Makoto (Baal)** y **Raiden Ei (Beelzebul)** nacieron de un rayo divino. Los kitsune se convirtieron en sus devotos sirvientes y mensajeros.
 
 ### La Construcción del Gran Santuario
 
-Después de la victoria de los kitsune sobre los tanuki, construyeron el **Gran Santuario Narukami** alrededor del Cerezo Sagrado en la cima de la Montaña Yougou para rendir culto a la Shogun Raiden [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma). La gran **Kitsune Hakushin** estaba a cargo junto con sus seis aprendices, la menor de las cuales era la **"Kitsune Negra" Itaru** [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma).
+Después de la victoria de los kitsune sobre los tanuki, construyeron el **Gran Santuario Narukami** alrededor del Cerezo Sagrado en la cima de la Montaña Yougou para rendir culto a la Shogun Raiden. La gran **Kitsune Hakushin** estaba a cargo junto con sus seis aprendices, la menor de las cuales era la **"Kitsune Negra" Itaru**.
 
 ---
 
@@ -28,15 +28,15 @@ Después de la victoria de los kitsune sobre los tanuki, construyeron el **Gran
 
 ### La Unificación de Inazuma
 
-Cuando la Guerra de los Arcontes estalló, las diosas gemelas Makoto y Ei lucharon juntas para proteger Inazuma. **Derrotaron a todos los demás dioses** y conquistaron numerosas razas, unificando todas las islas de Inazuma [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma).
+Cuando la Guerra de los Arcontes estalló, las diosas gemelas Makoto y Ei lucharon juntas para proteger Inazuma. **Derrotaron a todos los demás dioses** y conquistaron numerosas razas, unificando todas las islas de Inazuma.
 
 ### El Ascenso de Makoto
 
-Ei, aunque la luchadora más fuerte, creía que Makoto era la más adecuada para el papel de Arconte. **Ei sacrificó su cuerpo** para que Makoto pudiera ascender a Celestia [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma). Makoto se convirtió en la primera **Arconte Electro**, la Diosa de la Eternidad. Utilizando sus nuevos poderes, Makoto invocó la voluntad divina de Ei y reformó nuevamente su cuerpo. Ei pasó a ser su **kagemusha** (doble de cuerpo) [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma).
+Ei, aunque la luchadora más fuerte, creía que Makoto era la más adecuada para el papel de Arconte. **Ei sacrificó su cuerpo** para que Makoto pudiera ascender a Celestia. Makoto se convirtió en la primera **Arconte Electro**, la Diosa de la Eternidad. Utilizando sus nuevos poderes, Makoto invocó la voluntad divina de Ei y reformó nuevamente su cuerpo. Ei pasó a ser su **kagemusha** (doble de cuerpo).
 
 ### La Derrota de Orobashi
 
-La serpiente divina **Orobashi**, que había huido de la Guerra de los Arcontes, rescató a la gente de Enkanomiya y los llevó a la superficie, fundando la **Isla Watatsumi**. Más tarde, Orobashi se rebeló contra la Shogun y fue **asesinado por la Musou no Hitotachi de Raiden Ei**, que partió la Isla Yashiori en dos [](https://es.wikipedia.org/wiki/Inazuma_\(Genshin_Impact\)).
+La serpiente divina **Orobashi**, que había huido de la Guerra de los Arcontes, rescató a la gente de Enkanomiya y los llevó a la superficie, fundando la **Isla Watatsumi**. Más tarde, Orobashi se rebeló contra la Shogun y fue **asesinado por la Musou no Hitotachi de Raiden Ei**, que partió la Isla Yashiori en dos ).
 
 ---
 
@@ -44,11 +44,11 @@ La serpiente divina **Orobashi**, que había huido de la Guerra de los Arcontes
 
 ### La Muerte de Makoto
 
-Durante el **Cataclismo**, Makoto viajó a Khaenri'ah para luchar contra el Abismo y **murió allí** [](https://genshin-impact.fandom.com/es/wiki/Historia_de_Inazuma). Ei la sucedió como la nueva Arconte Electro.
+Durante el **Cataclismo**, Makoto viajó a Khaenri'ah para luchar contra el Abismo y **murió allí**. Ei la sucedió como la nueva Arconte Electro.
 
 ### La Siembra del Cerezo Sagrado
 
-Tras el Cataclismo, Ei plantó el **Cerezo Sagrado** en la cima de la Montaña Yougou. Sus raíces se extendieron por toda la región para absorber la corrupción del Abismo [](https://es.wikipedia.org/wiki/Inazuma_\(Genshin_Impact\)). Desde entonces, cada 60 años se realiza un **ritual de purificación** para mantener la tierra limpia.
+Tras el Cataclismo, Ei plantó el **Cerezo Sagrado** en la cima de la Montaña Yougou. Sus raíces se extendieron por toda la región para absorber la corrupción del Abismo ). Desde entonces, cada 60 años se realiza un **ritual de purificación** para mantener la tierra limpia.
 
 ---
 
@@ -60,28 +60,8 @@ Cuando el Viajero llegó a Inazuma, la nación estaba sumida en el caos bajo los
 
 ### La Rebelión de Watatsumi
 
-**Kokomi** lideró a la **Resistencia de Watatsumi** contra el Shogunato [](https://es.wikipedia.org/wiki/Inazuma_\(Genshin_Impact\)). El Viajero se unió a ellos para detener la Cacería de Visiones.
+**Kokomi** lideró a la **Resistencia de Watatsumi** contra el Shogunato ). El Viajero se unió a ellos para detener la Cacería de Visiones.
 
 ### El Conflicto Final
 
-El Viajero desafió a la Shogun Raiden en el **Plano de la Eutimia** y la derrotó, demostrándole que su concepto de "eternidad" estaba equivocado. Ei **abolió ambos decretos** y comenzó a gobernar de una manera más compasiva [](https://es.wikipedia.org/wiki/Inazuma_\(Genshin_Impact\)).
-
----
-
-## 🔗 Conexiones Clave
-
-- [[Raiden_Ei]] (Beelzebul)
-    
-- [[Raiden_Makoto]] (Baal)
-    
-- [[Los_Youkai]]
-    
-- [[Orobashi]]
-    
-- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]]
-    
-- [[El_Cataclismo_(500_años)]]
-    
-- [[La_Guerra_de_los_Arcontes]]
-    
-- [[Tsurumi_Island]]
+El Viajero desafió a la Shogun Raiden en el **Plano de la Eutimia** y la derrotó, demostrándole que su concepto de "eternidad" estaba equivocado. Ei **abolió ambos decretos** y comenzó a gobernar de una manera más compasiva ).

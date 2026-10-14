@@ -8,10 +8,10 @@ Este MOC agrupa todos los eventos históricos de Teyvat, desde las civilizacione
 
 ---
 
-## 📜 Líneas Temporales
+## 📜 Línea Temporal
 
 - [[Línea_Temporal_General]]
-- [[Eventos_Clave_Por_Nación]]
+
 
 ---
 
@@ -19,20 +19,7 @@ Este MOC agrupa todos los eventos históricos de Teyvat, desde las civilizacione
 
 - [[La_Guerra_Arconte]]
 - [[El_Cataclismo_(500_años)]]
+- [[Eventos_Clave_Por_Nación]]
 
 ---
 
-## 🏛️ Civilizaciones Antiguas
-
-- [[02 - Naciones y Regiones/Inazuma/Enkanomiya]]
-- [[Remuria]]
-- [[Sal_Vindagnyr]]
-
----
-
-## 🔗 Conexiones Clave
-
-- [[Primordial_One_(Phanes)]]
-- [[Los_Descendidos]]
-- [[Celestia_y_el_Orden_Celestial]]
-- [[Khaenri'ah]]

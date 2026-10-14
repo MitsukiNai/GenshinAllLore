@@ -17,8 +17,8 @@ Este MOC agrupa todos los conceptos fundamentales sobre la creación de Teyvat, 
 
 ## 🌟 El Primordial y las Sombras
 
-- [[Primordial_One_(Phanes)]]
-- [[Los_Cuatro_Reflejos]]
+- [[Fanes_El_Primordial]]
+- [[Las_Cuatro_Sombras]]
 - [[Celestia_y_el_Orden_Celestial]]
 
 ---
@@ -39,7 +39,7 @@ Este MOC agrupa todos los conceptos fundamentales sobre la creación de Teyvat, 
 
 ## ⚔️ La Guerra Primigenia
 
-- [[La_Guerra_de_Venganza]]
+- [[La_Guerra_de_Venganza_y_el_Segundo_Trono]]
 
 ---
 
@@ -48,10 +48,3 @@ Este MOC agrupa todos los conceptos fundamentales sobre la creación de Teyvat, 
 - [[Los_Siete_Arcontes]]
 
 ---
-
-## 🔗 Conexiones Clave
-
-- [[Irminsul_y_Ley_Lines]]
-- [[Visiones_y_Delusiones]]
-- [[Gnosis]]
-- [[Tronos_Divinos]]

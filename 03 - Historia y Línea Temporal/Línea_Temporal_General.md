@@ -1,4 +1,4 @@
-# # 🌌 Línea Temporal General de Teyvat
+# # 🌌 Línea Temporal General de Teyvat 
 
 ---
 

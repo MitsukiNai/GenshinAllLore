@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13cb8bf6cd1e58e5",
+        "id": "2d6ff7290534765b",
         "type": "tabs",
         "children": [
           {
-            "id": "017c816e7c6ea3b6",
+            "id": "3c08db5bdc006776",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - MOCs (Mapas de Contenido)/Índice_General.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Índice_General"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -49,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Reino de los Lobos",
+                "query": "perla",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "right": {
     "id": "063863096cdd278b",
@@ -168,7 +174,17 @@
               "type": "copilot-chat-view",
               "state": {},
               "icon": "message-square",
-              "title": "Copilot"
+              "title": "Copilot (Quick Chat)"
+            }
+          },
+          {
+            "id": "3ab608d34b0a628d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
             }
           }
         ],
@@ -176,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 784.4886474609375,
     "collapsed": true
   },
   "left-ribbon": {
@@ -188,46 +204,47 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "017c816e7c6ea3b6",
+  "active": "3c08db5bdc006776",
   "lastOpenFiles": [
-    "03 - Historia y Línea Temporal/Historia de Civilizaciones Antiguas/Sal_Vindagnyr.md",
-    "03 - Historia y Línea Temporal/Historia de Civilizaciones Antiguas/Hiperbórea.md",
-    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai/Descendientes_Lunaescarcha.md",
-    "04 - Personajes/NPCs_Importantes/Seutervoinen_La_Viajera.md",
-    "04 - Personajes/NPCs_Importantes/Istaroth.md",
-    "08 - Artefactos y Objetos/Réquiem_del_Corredor.md",
-    "08 - Artefactos y Objetos/Llamas Albinas.md",
-    "08 - Artefactos y Objetos/Retroceso del Meteorito.md",
-    "01 - Cosmología y Orígenes/El_Reino_Elemental_(Luz).md",
-    "01 - Cosmología y Orígenes/El_Tercer_Descendido_Saarelainen.md",
-    "01 - Cosmología y Orígenes/La Perla Génesis.md",
-    "01 - Cosmología y Orígenes/Los_Descendidos.md",
-    "01 - Cosmología y Orígenes/Los_Cuatro_Reflejos.md",
-    "01 - Cosmología y Orígenes/Primordial_One_(Phanes).md",
-    "01 - Cosmología y Orígenes/Pilares_Celestiales.md",
-    "01 - Cosmología y Orígenes/La_Guerra_de_Venganza.md",
-    "01 - Cosmología y Orígenes/Los_Siete_Soberanos_Dragón.md",
-    "04 - Personajes/NPCs_Importantes/Naberius.md",
-    "01 - Cosmología y Orígenes/Celestia_y_el_Orden_Celestial.md",
-    "01 - Cosmología y Orígenes/Las_Tres_Lunas_(Aria_Sonnet_Canon).md",
-    "01 - Cosmología y Orígenes/Los_Ángeles_y_Seelies.md",
-    "01 - Cosmología y Orígenes/Los_Siete_Arcontes.md",
-    "03 - Historia y Línea Temporal/El_Cataclismo_(500_años).md",
-    "03 - Historia y Línea Temporal/Eventos_Clave_Por_Nación.md",
+    "00 - MOCs (Mapas de Contenido)/MOC - Historia y Línea Temporal.md",
+    "03 - Historia y Línea Temporal/La_Guerra_Arconte.md",
+    "00 - MOCs (Mapas de Contenido)/Índice_General.md",
+    "00 - MOCs (Mapas de Contenido)/MOC - Cosmología y Orígenes.md",
     "03 - Historia y Línea Temporal/Línea_Temporal_General.md",
-    "08 - Artefactos y Objetos/Mimbre de la Luz Lunar.md",
-    "13 - Dudas personales",
-    "05 - Organizaciones y Facciones/Facciones_de_Nod-Krai",
-    "04 - Personajes/Hexenzirkel",
-    "05 - Organizaciones y Facciones/Hexenzirkel",
-    "04 - Personajes/Los Once Heraldos",
-    "02 - Naciones y Regiones/Sumeru/El Gran Rojo Desierto",
-    "03 - Historia y Línea Temporal/Historia de Civilizaciones Antiguas",
-    "09 - Libros y Textos/Por_Nación/Sumeru",
-    "09 - Libros y Textos/Por_Nación/Mondstadt",
-    "09 - Libros y Textos/Por_Nación/Inazuma"
+    "00 - MOCs (Mapas de Contenido)/MOC - Naciones y Regiones.md",
+    "03 - Historia y Línea Temporal/Eventos_Clave_Por_Nación.md",
+    "01 - Cosmología y Orígenes/La_Guerra_de_Venganza_y_el_Segundo_Trono.md",
+    "01 - Cosmología y Orígenes/Los_Ángeles_y_Seelies.md",
+    "01 - Cosmología y Orígenes/Las_Tres_Lunas_(Aria_Sonnet_Canon).md",
+    "La_Perla_Génesis.md",
+    "01 - Cosmología y Orígenes/La_Alegoría_de_la_Perla_de_Génesis.md",
+    "01 - Cosmología y Orígenes/Los_Descendidos.md",
+    "01 - Cosmología y Orígenes/Celestia_y_el_Orden_Celestial.md",
+    "01 - Cosmología y Orígenes/Las_Cuatro_Sombras.md",
+    "04 - Personajes/NPCs_Importantes/Sombras_y_Entidades_Cósmicas/Istaroth.md",
+    "04 - Personajes/NPCs_Importantes/Sombras_y_Entidades_Cósmicas/Asmoday.md",
+    "04 - Personajes/NPCs_Importantes/Sombras_y_Entidades_Cósmicas/Naberius.md",
+    "04 - Personajes/NPCs_Importantes/Sombras_y_Entidades_Cósmicas/Ronova.md",
+    "01 - Cosmología y Orígenes/Fanes_El_Primordial.md",
+    "01 - Cosmología y Orígenes/El_Reino_Elemental_(Luz).md",
+    "01 - Cosmología y Orígenes/Los_Siete_Soberanos_Dragón.md",
+    "05 - Organizaciones y Facciones/Clan_Alberich.md",
+    "Sin título.base",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "13 - Dudas personales/Abismo vs Teyvat.md",
+    "13 - Dudas personales/fantasmas.md",
+    "copilot/copilot-conversations",
+    "listado.txt",
+    "04 - Personajes/NPCs_Importantes/Otras_Figuras",
+    "04 - Personajes/NPCs_Importantes/Nueva carpeta",
+    "04 - Personajes/NPCs_Importantes/Figuras_de_Sumeru",
+    "04 - Personajes/NPCs_Importantes/Figuras_de_Sal_Vindagnyr",
+    "04 - Personajes/NPCs_Importantes/Figuras_de_Liyue",
+    "04 - Personajes/NPCs_Importantes/Figuras_de_Inazuma",
+    "04 - Personajes/NPCs_Importantes/Figuras_de_Fontaine",
+    "Sin título.canvas"
   ]
 }

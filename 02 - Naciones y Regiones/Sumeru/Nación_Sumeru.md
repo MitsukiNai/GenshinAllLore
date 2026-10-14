@@ -1,6 +1,6 @@
 # 🌳 Nación de Sumeru: El Reino de la Sabiduría
 
-**Sumeru** (en chino: 须弥, Xūmí, "Monte Meru") es una nación ubicada en el centro-oeste de Teyvat . Es el cuarto país que el Viajero visita en su viaje y está inspirada en la Edad de Oro del Islam, la India Antigua y el Antiguo Egipto . La región se divide en dos zonas principales: la selva tropical (Dharma Forest) y el desierto (Great Red Sand) .
+**Sumeru** (en chino: 须弥, Xūmí, "Monte Meru") es una nación ubicada en el centro-oeste de Teyvat. Es el cuarto país que el Viajero visita en su viaje y está inspirada en la Edad de Oro del Islam, la India Antigua y el Antiguo Egipto. La región se divide en dos zonas principales: la selva tropical (Dharma Forest) y el desierto (Great Red Sand).
 
 ---
 
@@ -23,7 +23,7 @@ Sumeru se compone de dos regiones principales:
 
 ### 🌴 La Selva Tropical (Dharma Forest)
 
-La selva tropical es una región de exuberante vegetación, lagos y ríos .
+La selva tropical es una región de exuberante vegetación, lagos y ríos.
 
 |Lugar|Descripción|
 |---|---|
@@ -36,7 +36,7 @@ La selva tropical es una región de exuberante vegetación, lagos y ríos .
 
 ### 🏜️ El Gran Mar Rojo (Great Red Sand)
 
-El desierto se extiende al oeste de la selva, separado por el **Muro de Samiel** .
+El desierto se extiende al oeste de la selva, separado por el **Muro de Samiel**.
 
 |Lugar|Descripción|
 |---|---|
@@ -51,11 +51,11 @@ El desierto se extiende al oeste de la selva, separado por el **Muro de Samiel*
 
 ## 🏛️ Gobierno: La Akademiya de Sumeru
 
-La **Akademiya de Sumeru** es la institución académica más grande de Teyvat y actúa como el principal órgano de gobierno de Sumeru [](https://game8.co/games/Genshin-Impact/archives/404031)[](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya). Está liderada por el **Gran Sabio (Grand Sage)**, quien tiene autoridad absoluta sobre la institución [](https://genshin-impact.fandom.com/wiki/Sumeru_Akademiya). Durante los 500 años en que la Arconte Dendro no gobernó activamente, fue el Gran Sabio quien tuvo el poder real [](https://game8.co/games/Genshin-Impact/archives/404031).
+La **Akademiya de Sumeru** es la institución académica más grande de Teyvat y actúa como el principal órgano de gobierno de Sumeru. Está liderada por el **Gran Sabio (Grand Sage)**, quien tiene autoridad absoluta sobre la institución. Durante los 500 años en que la Arconte Dendro no gobernó activamente, fue el Gran Sabio quien tuvo el poder real.
 
 ### Las Seis Dársanas (Six Darshans)
 
-La Akademiya se divide en seis facultades principales, cada una liderada por un Sabio (Sage) [](https://game8.co/games/Genshin-Impact/archives/404031)[](https://baike.baidu.com/en/item/The%20Akademiya/1493399):
+La Akademiya se divide en seis facultades principales, cada una liderada por un Sabio (Sage):
 
 |Dársana|Especialidad|Símbolo|Miembros Notables|
 |---|---|---|---|
@@ -68,23 +68,6 @@ La Akademiya se divide en seis facultades principales, cada una liderada por un 
 
 ### El Sistema Akasha
 
-El **Sistema Akasha** era un terminal en forma de pendiente que todos los ciudadanos de Sumeru llevaban. Fue creado por la **Gran Señora Rukkhadevata** para combatir el Conocimiento Prohibido . Tras su muerte, los Sabios de la Akademiya lo usaron para controlar el flujo de información en Sumeru . Fue desmantelado por Nahida tras el fin del Arconte de Sumeru .
+El **Sistema Akasha** era un terminal en forma de pendiente que todos los ciudadanos de Sumeru llevaban. Fue creado por la **Gran Señora Rukkhadevata** para combatir el Conocimiento Prohibido. Tras su muerte, los Sabios de la Akademiya lo usaron para controlar el flujo de información en Sumeru. Fue desmantelado por Nahida tras el fin del Arconte de Sumeru.
 
----
-
-## 🎭 Conexiones Clave
-
-- [[Nahida]] (Buer) - La Arconte Dendro actual
-    
-- [[Rukkhadevata]] - La Arconte Dendro original
-    
-- [[El_Rey_Deshret]] - El Rey Escarlata
-    
-- [[Nabu_Malikata]] - La Diosa de las Flores
-    
-- [[La_Akademiya]] - La institución gobernante
-    
-- [[Los_Aranara]] - Espíritus del bosque
-    
-- [[Los_Desertores]] - Eremitas y tribus del desierto
 
