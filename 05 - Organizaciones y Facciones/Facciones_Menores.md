@@ -1,2 +1,0 @@
-# Facciones Menores
-
